@@ -9,6 +9,6 @@ In this work, we develop a novel topology-based network alignment approach which
 ### Running The Code and Input Format 
 1. To add noise to the graph run the following: <br />
 python noise_p.py graph_file noise_percentage <br />
-2. To generate the graphlet frequencies:<br />
-[Orca Tool] (http://www.biolab.si/supp/orca/) <br />
+2. To generate the graphlet frequencies using Orca Tool: <br />
+(http://www.biolab.si/supp/orca/) <br />
 3. To run GraphletAlign code use the following command :<br />
