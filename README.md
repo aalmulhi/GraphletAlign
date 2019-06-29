@@ -17,5 +17,5 @@ python noise_p.py graph_file noise_percentage
 2. To generate the graphlet frequencies use: [Orca Tool](http://www.biolab.si/supp/orca/) <br />
 3. To run GraphletAlign code use the following command :<br />
 ```
-python3 GraphletAlign.py graph1_file graphe2_file graph1_graphlet_file graph2_graphlet_file map_file p_value 
+python3 GraphletAlign.py graph1_file graphe2_file graph1_graphlet_file graph2_graphlet_file map_file p 
 ```
