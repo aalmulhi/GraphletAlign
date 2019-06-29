@@ -5,7 +5,7 @@ Network Alignment using Graphlet Signatureand High Order Proximity
 In this work, we develop a novel topology-based network alignment approach which we call GraphletAlign.  The  proposed  method  uses  graphlet  signature  as  nodeattributes and then uses a bi-partite matching algorithm for obtainingan initial alignment, which is later refined by considering higher-ordermatching.
 
 ### Requirements
-Python 3.6.8 <br />
+python 3.6.8 <br />
 lapsolver 1.0.2 <br />
 networkx 2.2 <br />
 
