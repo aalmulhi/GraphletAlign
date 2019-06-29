@@ -1,8 +1,8 @@
-# GraphletAlign
+#GraphletAlign
 Network Alignment using Graphlet Signatureand High Order Proximity
 
-# Overview
+#Overview
 
-# Requirements
+#Requirements
 
-# Running The Code and Input Format 
+#Running The Code and Input Format 
